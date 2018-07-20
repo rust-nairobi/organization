@@ -9,6 +9,7 @@ Rust Nairobi Org Sync Meeting
 Talking points
 --
 
+* August Meetup
 * GirlsCode Rust Bridge
 * Rust Nairobi website
 * Rust Nairobi registration
@@ -17,6 +18,10 @@ Talking points
 
 Action Items
 --
+
+* August Meetup
+    - Hack & Learn session on the [africastalking-rust](https://github.com/rust-nairobi/africastalking-rust) gateway. Look at module system, testing, documentation, publishing to crates.io e.t.c
+    - Submit funding request & get posters ready.
 
 * GirlsCode Rust Bridge
     - Put together budget.
